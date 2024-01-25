@@ -1,0 +1,4 @@
+# wen not take this file during build dockerfile
+/node_modules
+Dockerfile 
+.env
